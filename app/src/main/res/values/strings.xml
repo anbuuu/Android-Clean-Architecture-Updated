@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">FairfaxCodingChallenge</string>
+  <string name="defaultErrorMsg">Currently facing some issues, please try again later</string>
+  <string name="assetListFragment">asset</string>
+  <string name="itemData">itemData</string>
+  <string name="itemDetailFragment">itemDetail</string>
+  <string name="networkErrorMsg">No Internet Connection Found .. Exiting</string>
+</resources>

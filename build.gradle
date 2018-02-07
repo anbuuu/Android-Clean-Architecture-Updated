@@ -1,0 +1,39 @@
+apply from: 'buildsystem/dependencies.gradle'
+
+buildscript {
+    ext.kotlin_version = '1.1.51'
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.0.1'
+      classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+
+      classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+
+  ext {
+    androidApplicationId = 'com.projects.fairfaxchallenge'
+    androidVersionCode = 1
+    androidVersionName = "1.0"
+    testInstrumentationRunner = "android.support.test.runner.AndroidJUnitRunner"
+  }
+}
+
+
+repositories {
+  mavenCentral()
+}
+
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
