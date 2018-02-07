@@ -18,6 +18,7 @@ From Android Minimum SDK Version 19 / Android 4.4 (KITKAT)
 
 A Dropbox link is provided is below, which can be used to download the APK and installing on the physical device, following instructions ( Additonal step is to "Enable Third Party Apps Installation" on Device )
 
+https://www.dropbox.com/s/pe28u2aflp1gbqe/FairfaxCodingChallenge.apk?dl=0
 
 ### Overview 
 
