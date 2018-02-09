@@ -69,7 +69,7 @@ The data needed for the application comes from this layer through the ```DataRep
 
 ### Project Structure
 
-<img src="https://github.com/anbuuu/fairfaxpictures/blob/master/App-Structure.png" width="400" height="300" />
+<img src="https://github.com/anbuuu/fairfaxpictures/blob/master/App-Structure.png" width="1200" height="800" />
 
 ### Unit Tests 
 
