@@ -1,6 +1,6 @@
-# Fairfax Coding Exercise for Android
+#  Exercise for Android
 
-Android Coding Exercise for showing the List of News Articles and clicking on the item will take the User to the Detailed News Section.
+Android Clean Architecture Exercise for showing the List of News Articles and clicking on the item will take the User to the Detailed News Section.
 
 ## Getting Started
 
